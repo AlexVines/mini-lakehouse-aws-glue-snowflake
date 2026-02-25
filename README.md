@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # mini-lakehouse-aws-glue-snowflake
 =======
 \# Mini Lakehouse (AWS + Glue/Spark + optional Snowflake)
@@ -70,5 +69,3 @@ Goal: practice building a small but realistic data platform:
 \- Keep datasets small.
 
 \- Use minimal Glue workers and run jobs only when needed.
-
->>>>>>> cba7590 (Step 0: repo base)
